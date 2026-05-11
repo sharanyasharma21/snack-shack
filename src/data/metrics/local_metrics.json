@@ -1,0 +1,10 @@
+{
+  "raw_count": 203,
+  "accepted_count": 6,
+  "rejected_count": 197,
+  "duplicate_count": 99,
+  "pii_count": 43,
+  "invalid_rating_count": 32,
+  "invalid_length_count": 31,
+  "non_english_count": 97
+}

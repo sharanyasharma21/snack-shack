@@ -1,0 +1,6 @@
+{"id": "r0002", "source": "partner_feed", "text": "great tacos! email me at [EMAIL]", "rating": 4, "text_length": 32, "quality_score": 0.8, "dataset_version": "2026_05_10"}
+{"id": "r0007", "source": "web", "text": "worst experience ever!!!", "rating": 5, "text_length": 24, "quality_score": 1.0, "dataset_version": "2026_05_10"}
+{"id": "r0011", "source": "mobile_app", "text": "i loved the ramen but the restaurant was too loud.", "rating": 2, "text_length": 50, "quality_score": 1.0, "dataset_version": "2026_05_10"}
+{"id": "r0014", "source": "partner_feed", "text": "the burger was amazing and the fries were crispy.", "rating": 3, "text_length": 49, "quality_score": 1.0, "dataset_version": "2026_05_10"}
+{"id": "r0027", "source": "mobile_app", "text": "pizza was okay, nothing special.", "rating": 4, "text_length": 32, "quality_score": 1.0, "dataset_version": "2026_05_10"}
+{"id": "r0031", "source": "mobile_app", "text": "this place was fantastic. the staff were friendly and the food was fresh.", "rating": 1, "text_length": 73, "quality_score": 1.0, "dataset_version": "2026_05_10"}

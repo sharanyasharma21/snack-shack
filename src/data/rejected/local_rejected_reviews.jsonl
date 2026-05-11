@@ -1,0 +1,197 @@
+{"id": "r0001", "source": "web", "text": "Worst experience ever!!!", "created_at": "2026-05-06T08:00:00Z", "rating": null, "reject_reasons": ["invalid_rating"]}
+{"id": "r0003", "source": "mobile_app", "text": "Call me at 555-123-4567, I have feedback.", "created_at": "2026-05-04T17:00:00Z", "rating": 4, "reject_reasons": ["non_english"]}
+{"id": "r0004", "source": "web", "text": "", "created_at": "2026-05-05T17:00:00Z", "rating": 5, "reject_reasons": ["invalid_length", "non_english"]}
+{"id": "r0005", "source": "partner_feed", "text": "Great tacos! Email me at customer@example.com", "created_at": "2026-05-07T23:00:00Z", "rating": 1, "reject_reasons": ["duplicate"]}
+{"id": "r0006", "source": "web", "text": "", "created_at": "2026-05-05T07:00:00Z", "rating": 2, "reject_reasons": ["invalid_length", "non_english"]}
+{"id": "r0008", "source": "mobile_app", "text": "", "created_at": "2026-05-03T17:00:00Z", "rating": 2, "reject_reasons": ["invalid_length", "non_english"]}
+{"id": "r0009", "source": "mobile_app", "text": "La comida estuvo deliciosa y el servicio excelente.", "created_at": "2026-05-03T16:00:00Z", "rating": null, "reject_reasons": ["invalid_rating", "non_english"]}
+{"id": "r0010", "source": "mobile_app", "text": "La comida estuvo deliciosa y el servicio excelente.", "created_at": "2026-05-01T18:00:00Z", "rating": null, "reject_reasons": ["invalid_rating", "non_english"]}
+{"id": "r0012", "source": "mobile_app", "text": "Terrible service. I waited 45 minutes.", "created_at": "2026-05-05T13:00:00Z", "rating": null, "reject_reasons": ["invalid_rating", "non_english"]}
+{"id": "r0013", "source": "partner_feed", "text": "Call me at 555-123-4567, I have feedback.", "created_at": "2026-05-04T09:00:00Z", "rating": 2, "reject_reasons": ["non_english"]}
+{"id": "r0015", "source": "partner_feed", "text": "I loved the ramen but the restaurant was too loud.", "created_at": "2026-05-04T16:00:00Z", "rating": 3, "reject_reasons": ["duplicate"]}
+{"id": "r0016", "source": "web", "text": "Great tacos! Email me at customer@example.com", "created_at": "2026-05-03T17:00:00Z", "rating": 4, "reject_reasons": ["duplicate"]}
+{"id": "r0017", "source": "mobile_app", "text": "Worst experience ever!!!", "created_at": "2026-05-02T18:00:00Z", "rating": null, "reject_reasons": ["duplicate", "invalid_rating"]}
+{"id": "r0018", "source": "web", "text": "The burger was amazing and the fries were crispy.", "created_at": "2026-05-01T19:00:00Z", "rating": 5, "reject_reasons": ["duplicate"]}
+{"id": "r0019", "source": "web", "text": "asdfasdfasdfasdf", "created_at": "2026-05-02T01:00:00Z", "rating": 2, "reject_reasons": ["non_english"]}
+{"id": "r0020", "source": "partner_feed", "text": "Call me at 555-123-4567, I have feedback.", "created_at": "2026-05-08T14:00:00Z", "rating": 2, "reject_reasons": ["non_english"]}
+{"id": "r0021", "source": "web", "text": "Great tacos! Email me at customer@example.com", "created_at": "2026-05-06T20:00:00Z", "rating": 4, "reject_reasons": ["duplicate"]}
+{"id": "r0022", "source": "mobile_app", "text": "asdfasdfasdfasdf", "created_at": "2026-05-01T05:00:00Z", "rating": 5, "reject_reasons": ["non_english"]}
+{"id": "r0023", "source": "web", "text": "Good", "created_at": "2026-05-06T01:00:00Z", "rating": 3, "reject_reasons": ["invalid_length", "non_english"]}
+{"id": "r0024", "source": "mobile_app", "text": "The burger was amazing and the fries were crispy.", "created_at": "2026-05-08T15:00:00Z", "rating": 5, "reject_reasons": ["duplicate"]}
+{"id": "r0025", "source": "partner_feed", "text": "Terrible service. I waited 45 minutes.", "created_at": "2026-05-05T10:00:00Z", "rating": 4, "reject_reasons": ["non_english"]}
+{"id": "r0026", "source": "mobile_app", "text": "La comida estuvo deliciosa y el servicio excelente.", "created_at": "2026-05-08T14:00:00Z", "rating": 4, "reject_reasons": ["non_english"]}
+{"id": "r0028", "source": "partner_feed", "text": "The burger was amazing and the fries were crispy.", "created_at": "2026-05-01T02:00:00Z", "rating": 3, "reject_reasons": ["duplicate"]}
+{"id": "r0029", "source": "partner_feed", "text": "Good", "created_at": "2026-05-06T13:00:00Z", "rating": 1, "reject_reasons": ["invalid_length", "non_english"]}
+{"id": "r0030", "source": "mobile_app", "text": "I loved the ramen but the restaurant was too loud.", "created_at": "2026-05-05T12:00:00Z", "rating": 4, "reject_reasons": ["duplicate"]}
+{"id": "r0032", "source": "partner_feed", "text": "Worst experience ever!!!", "created_at": "2026-05-03T05:00:00Z", "rating": 3, "reject_reasons": ["duplicate"]}
+{"id": "r0033", "source": "web", "text": "Terrible service. I waited 45 minutes.", "created_at": "2026-05-04T10:00:00Z", "rating": 2, "reject_reasons": ["non_english"]}
+{"id": "r0034", "source": "web", "text": "Pizza was okay, nothing special.", "created_at": "2026-05-01T05:00:00Z", "rating": 4, "reject_reasons": ["duplicate"]}
+{"id": "r0035", "source": "web", "text": "Worst experience ever!!!", "created_at": "2026-05-05T16:00:00Z", "rating": null, "reject_reasons": ["duplicate", "invalid_rating"]}
+{"id": "r0036", "source": "mobile_app", "text": "Good", "created_at": "2026-05-04T07:00:00Z", "rating": 5, "reject_reasons": ["invalid_length", "non_english"]}
+{"id": "r0037", "source": "web", "text": "This place was fantastic. The staff were friendly and the food was fresh.", "created_at": "2026-05-08T23:00:00Z", "rating": 3, "reject_reasons": ["duplicate"]}
+{"id": "r0038", "source": "web", "text": "Call me at 555-123-4567, I have feedback.", "created_at": "2026-05-02T11:00:00Z", "rating": 3, "reject_reasons": ["non_english"]}
+{"id": "r0039", "source": "partner_feed", "text": "Great tacos! Email me at customer@example.com", "created_at": "2026-05-03T20:00:00Z", "rating": 4, "reject_reasons": ["duplicate"]}
+{"id": "r0040", "source": "web", "text": "Great tacos! Email me at customer@example.com", "created_at": "2026-05-03T02:00:00Z", "rating": 5, "reject_reasons": ["duplicate"]}
+{"id": "r0041", "source": "partner_feed", "text": "Terrible service. I waited 45 minutes.", "created_at": "2026-05-05T11:00:00Z", "rating": 5, "reject_reasons": ["non_english"]}
+{"id": "r0042", "source": "partner_feed", "text": "Worst experience ever!!!", "created_at": "2026-05-08T03:00:00Z", "rating": 5, "reject_reasons": ["duplicate"]}
+{"id": "r0043", "source": "partner_feed", "text": "Worst experience ever!!!", "created_at": "2026-05-06T22:00:00Z", "rating": 3, "reject_reasons": ["duplicate"]}
+{"id": "r0044", "source": "web", "text": "Call me at 555-123-4567, I have feedback.", "created_at": "2026-05-04T15:00:00Z", "rating": 4, "reject_reasons": ["non_english"]}
+{"id": "r0045", "source": "web", "text": "", "created_at": "2026-05-01T08:00:00Z", "rating": 4, "reject_reasons": ["invalid_length", "non_english"]}
+{"id": "r0046", "source": "web", "text": "Good", "created_at": "2026-05-06T17:00:00Z", "rating": null, "reject_reasons": ["invalid_rating", "invalid_length", "non_english"]}
+{"id": "r0047", "source": "mobile_app", "text": "Terrible service. I waited 45 minutes.", "created_at": "2026-05-07T21:00:00Z", "rating": 5, "reject_reasons": ["non_english"]}
+{"id": "r0048", "source": "mobile_app", "text": "Good", "created_at": "2026-05-01T06:00:00Z", "rating": 5, "reject_reasons": ["invalid_length", "non_english"]}
+{"id": "r0049", "source": "web", "text": "Terrible service. I waited 45 minutes.", "created_at": "2026-05-08T22:00:00Z", "rating": 1, "reject_reasons": ["non_english"]}
+{"id": "r0050", "source": "partner_feed", "text": "Good", "created_at": "2026-05-08T17:00:00Z", "rating": 1, "reject_reasons": ["invalid_length", "non_english"]}
+{"id": "r0051", "source": "partner_feed", "text": "", "created_at": "2026-05-03T14:00:00Z", "rating": 3, "reject_reasons": ["invalid_length", "non_english"]}
+{"id": "r0052", "source": "web", "text": "The burger was amazing and the fries were crispy.", "created_at": "2026-05-03T01:00:00Z", "rating": 3, "reject_reasons": ["duplicate"]}
+{"id": "r0053", "source": "partner_feed", "text": "Pizza was okay, nothing special.", "created_at": "2026-05-06T23:00:00Z", "rating": 5, "reject_reasons": ["duplicate"]}
+{"id": "r0054", "source": "mobile_app", "text": "", "created_at": "2026-05-05T06:00:00Z", "rating": 1, "reject_reasons": ["invalid_length", "non_english"]}
+{"id": "r0055", "source": "web", "text": "La comida estuvo deliciosa y el servicio excelente.", "created_at": "2026-05-05T18:00:00Z", "rating": 2, "reject_reasons": ["non_english"]}
+{"id": "r0056", "source": "web", "text": "", "created_at": "2026-05-01T19:00:00Z", "rating": 1, "reject_reasons": ["invalid_length", "non_english"]}
+{"id": "r0057", "source": "web", "text": "I loved the ramen but the restaurant was too loud.", "created_at": "2026-05-06T11:00:00Z", "rating": 4, "reject_reasons": ["duplicate"]}
+{"id": "r0058", "source": "web", "text": "I loved the ramen but the restaurant was too loud.", "created_at": "2026-05-06T20:00:00Z", "rating": null, "reject_reasons": ["duplicate", "invalid_rating"]}
+{"id": "r0059", "source": "partner_feed", "text": "asdfasdfasdfasdf", "created_at": "2026-05-02T00:00:00Z", "rating": 1, "reject_reasons": ["non_english"]}
+{"id": "r0060", "source": "mobile_app", "text": "This place was fantastic. The staff were friendly and the food was fresh.", "created_at": "2026-05-03T20:00:00Z", "rating": null, "reject_reasons": ["duplicate", "invalid_rating"]}
+{"id": "r0061", "source": "mobile_app", "text": "Pizza was okay, nothing special.", "created_at": "2026-05-01T00:00:00Z", "rating": 1, "reject_reasons": ["duplicate"]}
+{"id": "r0062", "source": "web", "text": "The burger was amazing and the fries were crispy.", "created_at": "2026-05-05T01:00:00Z", "rating": 2, "reject_reasons": ["duplicate"]}
+{"id": "r0063", "source": "mobile_app", "text": "Call me at 555-123-4567, I have feedback.", "created_at": "2026-05-04T07:00:00Z", "rating": 1, "reject_reasons": ["non_english"]}
+{"id": "r0064", "source": "web", "text": "Great tacos! Email me at customer@example.com", "created_at": "2026-05-04T08:00:00Z", "rating": 5, "reject_reasons": ["duplicate"]}
+{"id": "r0065", "source": "mobile_app", "text": "Great tacos! Email me at customer@example.com", "created_at": "2026-05-02T19:00:00Z", "rating": 3, "reject_reasons": ["duplicate"]}
+{"id": "r0066", "source": "mobile_app", "text": "Worst experience ever!!!", "created_at": "2026-05-08T07:00:00Z", "rating": 5, "reject_reasons": ["duplicate"]}
+{"id": "r0067", "source": "mobile_app", "text": "Great tacos! Email me at customer@example.com", "created_at": "2026-05-07T00:00:00Z", "rating": 4, "reject_reasons": ["duplicate"]}
+{"id": "r0068", "source": "web", "text": "Pizza was okay, nothing special.", "created_at": "2026-05-03T01:00:00Z", "rating": 5, "reject_reasons": ["duplicate"]}
+{"id": "r0069", "source": "partner_feed", "text": "Call me at 555-123-4567, I have feedback.", "created_at": "2026-05-08T16:00:00Z", "rating": 2, "reject_reasons": ["non_english"]}
+{"id": "r0070", "source": "mobile_app", "text": "This place was fantastic. The staff were friendly and the food was fresh.", "created_at": "2026-05-06T00:00:00Z", "rating": null, "reject_reasons": ["duplicate", "invalid_rating"]}
+{"id": "r0071", "source": "mobile_app", "text": "Good", "created_at": "2026-05-05T22:00:00Z", "rating": 4, "reject_reasons": ["invalid_length", "non_english"]}
+{"id": "r0072", "source": "partner_feed", "text": "Pizza was okay, nothing special.", "created_at": "2026-05-05T15:00:00Z", "rating": null, "reject_reasons": ["duplicate", "invalid_rating"]}
+{"id": "r0073", "source": "mobile_app", "text": "The burger was amazing and the fries were crispy.", "created_at": "2026-05-02T17:00:00Z", "rating": 3, "reject_reasons": ["duplicate"]}
+{"id": "r0074", "source": "partner_feed", "text": "Call me at 555-123-4567, I have feedback.", "created_at": "2026-05-01T19:00:00Z", "rating": 2, "reject_reasons": ["non_english"]}
+{"id": "r0075", "source": "web", "text": "This place was fantastic. The staff were friendly and the food was fresh.", "created_at": "2026-05-05T16:00:00Z", "rating": 5, "reject_reasons": ["duplicate"]}
+{"id": "r0076", "source": "web", "text": "This place was fantastic. The staff were friendly and the food was fresh.", "created_at": "2026-05-04T20:00:00Z", "rating": 4, "reject_reasons": ["duplicate"]}
+{"id": "r0077", "source": "mobile_app", "text": "asdfasdfasdfasdf", "created_at": "2026-05-03T22:00:00Z", "rating": 5, "reject_reasons": ["non_english"]}
+{"id": "r0078", "source": "partner_feed", "text": "Good", "created_at": "2026-05-07T22:00:00Z", "rating": 4, "reject_reasons": ["invalid_length", "non_english"]}
+{"id": "r0079", "source": "partner_feed", "text": "Terrible service. I waited 45 minutes.", "created_at": "2026-05-01T01:00:00Z", "rating": 4, "reject_reasons": ["non_english"]}
+{"id": "r0080", "source": "partner_feed", "text": "The burger was amazing and the fries were crispy.", "created_at": "2026-05-02T10:00:00Z", "rating": null, "reject_reasons": ["duplicate", "invalid_rating"]}
+{"id": "r0081", "source": "mobile_app", "text": "Terrible service. I waited 45 minutes.", "created_at": "2026-05-01T20:00:00Z", "rating": 4, "reject_reasons": ["non_english"]}
+{"id": "r0082", "source": "web", "text": "Worst experience ever!!!", "created_at": "2026-05-03T18:00:00Z", "rating": 5, "reject_reasons": ["duplicate"]}
+{"id": "r0083", "source": "partner_feed", "text": "This place was fantastic. The staff were friendly and the food was fresh.", "created_at": "2026-05-07T21:00:00Z", "rating": 1, "reject_reasons": ["duplicate"]}
+{"id": "r0084", "source": "partner_feed", "text": "Great tacos! Email me at customer@example.com", "created_at": "2026-05-08T17:00:00Z", "rating": 4, "reject_reasons": ["duplicate"]}
+{"id": "r0085", "source": "web", "text": "Pizza was okay, nothing special.", "created_at": "2026-05-02T03:00:00Z", "rating": null, "reject_reasons": ["duplicate", "invalid_rating"]}
+{"id": "r0086", "source": "partner_feed", "text": "La comida estuvo deliciosa y el servicio excelente.", "created_at": "2026-05-01T06:00:00Z", "rating": null, "reject_reasons": ["invalid_rating", "non_english"]}
+{"id": "r0087", "source": "mobile_app", "text": "Great tacos! Email me at customer@example.com", "created_at": "2026-05-05T00:00:00Z", "rating": 2, "reject_reasons": ["duplicate"]}
+{"id": "r0088", "source": "web", "text": "Terrible service. I waited 45 minutes.", "created_at": "2026-05-05T22:00:00Z", "rating": 2, "reject_reasons": ["non_english"]}
+{"id": "r0089", "source": "web", "text": "Great tacos! Email me at customer@example.com", "created_at": "2026-05-03T09:00:00Z", "rating": 2, "reject_reasons": ["duplicate"]}
+{"id": "r0090", "source": "web", "text": "Worst experience ever!!!", "created_at": "2026-05-04T17:00:00Z", "rating": 4, "reject_reasons": ["duplicate"]}
+{"id": "r0091", "source": "mobile_app", "text": "This place was fantastic. The staff were friendly and the food was fresh.", "created_at": "2026-05-08T06:00:00Z", "rating": 2, "reject_reasons": ["duplicate"]}
+{"id": "r0092", "source": "partner_feed", "text": "Pizza was okay, nothing special.", "created_at": "2026-05-07T09:00:00Z", "rating": 1, "reject_reasons": ["duplicate"]}
+{"id": "r0093", "source": "mobile_app", "text": "This place was fantastic. The staff were friendly and the food was fresh.", "created_at": "2026-05-01T00:00:00Z", "rating": 1, "reject_reasons": ["duplicate"]}
+{"id": "r0094", "source": "web", "text": "I loved the ramen but the restaurant was too loud.", "created_at": "2026-05-03T19:00:00Z", "rating": 3, "reject_reasons": ["duplicate"]}
+{"id": "r0095", "source": "mobile_app", "text": "Pizza was okay, nothing special.", "created_at": "2026-05-04T17:00:00Z", "rating": 4, "reject_reasons": ["duplicate"]}
+{"id": "r0096", "source": "web", "text": "asdfasdfasdfasdf", "created_at": "2026-05-02T21:00:00Z", "rating": 5, "reject_reasons": ["non_english"]}
+{"id": "r0097", "source": "mobile_app", "text": "Pizza was okay, nothing special.", "created_at": "2026-05-08T18:00:00Z", "rating": 4, "reject_reasons": ["duplicate"]}
+{"id": "r0098", "source": "mobile_app", "text": "Pizza was okay, nothing special.", "created_at": "2026-05-02T03:00:00Z", "rating": 5, "reject_reasons": ["duplicate"]}
+{"id": "r0099", "source": "partner_feed", "text": "Worst experience ever!!!", "created_at": "2026-05-02T03:00:00Z", "rating": null, "reject_reasons": ["duplicate", "invalid_rating"]}
+{"id": "r0100", "source": "web", "text": "The burger was amazing and the fries were crispy.", "created_at": "2026-05-04T01:00:00Z", "rating": 3, "reject_reasons": ["duplicate"]}
+{"id": "r0101", "source": "mobile_app", "text": "Call me at 555-123-4567, I have feedback.", "created_at": "2026-05-03T02:00:00Z", "rating": 2, "reject_reasons": ["non_english"]}
+{"id": "r0102", "source": "partner_feed", "text": "asdfasdfasdfasdf", "created_at": "2026-05-07T15:00:00Z", "rating": 5, "reject_reasons": ["non_english"]}
+{"id": "r0103", "source": "mobile_app", "text": "Great tacos! Email me at customer@example.com", "created_at": "2026-05-06T21:00:00Z", "rating": 1, "reject_reasons": ["duplicate"]}
+{"id": "r0104", "source": "partner_feed", "text": "Terrible service. I waited 45 minutes.", "created_at": "2026-05-05T13:00:00Z", "rating": 1, "reject_reasons": ["non_english"]}
+{"id": "r0105", "source": "mobile_app", "text": "Terrible service. I waited 45 minutes.", "created_at": "2026-05-03T08:00:00Z", "rating": 3, "reject_reasons": ["non_english"]}
+{"id": "r0106", "source": "web", "text": "This place was fantastic. The staff were friendly and the food was fresh.", "created_at": "2026-05-08T00:00:00Z", "rating": 2, "reject_reasons": ["duplicate"]}
+{"id": "r0107", "source": "mobile_app", "text": "La comida estuvo deliciosa y el servicio excelente.", "created_at": "2026-05-03T12:00:00Z", "rating": 5, "reject_reasons": ["non_english"]}
+{"id": "r0108", "source": "partner_feed", "text": "Good", "created_at": "2026-05-06T16:00:00Z", "rating": 4, "reject_reasons": ["invalid_length", "non_english"]}
+{"id": "r0109", "source": "web", "text": "asdfasdfasdfasdf", "created_at": "2026-05-01T18:00:00Z", "rating": 4, "reject_reasons": ["non_english"]}
+{"id": "r0110", "source": "web", "text": "La comida estuvo deliciosa y el servicio excelente.", "created_at": "2026-05-02T14:00:00Z", "rating": 2, "reject_reasons": ["non_english"]}
+{"id": "r0111", "source": "partner_feed", "text": "Call me at 555-123-4567, I have feedback.", "created_at": "2026-05-02T14:00:00Z", "rating": 2, "reject_reasons": ["non_english"]}
+{"id": "r0112", "source": "web", "text": "", "created_at": "2026-05-01T23:00:00Z", "rating": null, "reject_reasons": ["invalid_rating", "invalid_length", "non_english"]}
+{"id": "r0113", "source": "mobile_app", "text": "Great tacos! Email me at customer@example.com", "created_at": "2026-05-02T06:00:00Z", "rating": 1, "reject_reasons": ["duplicate"]}
+{"id": "r0114", "source": "partner_feed", "text": "Terrible service. I waited 45 minutes.", "created_at": "2026-05-01T19:00:00Z", "rating": 4, "reject_reasons": ["non_english"]}
+{"id": "r0115", "source": "partner_feed", "text": "This place was fantastic. The staff were friendly and the food was fresh.", "created_at": "2026-05-02T00:00:00Z", "rating": 2, "reject_reasons": ["duplicate"]}
+{"id": "r0116", "source": "mobile_app", "text": "I loved the ramen but the restaurant was too loud.", "created_at": "2026-05-03T12:00:00Z", "rating": 2, "reject_reasons": ["duplicate"]}
+{"id": "r0117", "source": "mobile_app", "text": "", "created_at": "2026-05-02T19:00:00Z", "rating": 4, "reject_reasons": ["invalid_length", "non_english"]}
+{"id": "r0118", "source": "partner_feed", "text": "", "created_at": "2026-05-07T10:00:00Z", "rating": 3, "reject_reasons": ["invalid_length", "non_english"]}
+{"id": "r0119", "source": "web", "text": "asdfasdfasdfasdf", "created_at": "2026-05-02T20:00:00Z", "rating": 2, "reject_reasons": ["non_english"]}
+{"id": "r0120", "source": "mobile_app", "text": "Call me at 555-123-4567, I have feedback.", "created_at": "2026-05-02T06:00:00Z", "rating": 5, "reject_reasons": ["non_english"]}
+{"id": "r0121", "source": "web", "text": "I loved the ramen but the restaurant was too loud.", "created_at": "2026-05-04T23:00:00Z", "rating": 2, "reject_reasons": ["duplicate"]}
+{"id": "r0122", "source": "mobile_app", "text": "La comida estuvo deliciosa y el servicio excelente.", "created_at": "2026-05-02T08:00:00Z", "rating": null, "reject_reasons": ["invalid_rating", "non_english"]}
+{"id": "r0123", "source": "partner_feed", "text": "Worst experience ever!!!", "created_at": "2026-05-07T08:00:00Z", "rating": 5, "reject_reasons": ["duplicate"]}
+{"id": "r0124", "source": "web", "text": "This place was fantastic. The staff were friendly and the food was fresh.", "created_at": "2026-05-04T08:00:00Z", "rating": 4, "reject_reasons": ["duplicate"]}
+{"id": "r0125", "source": "web", "text": "Call me at 555-123-4567, I have feedback.", "created_at": "2026-05-07T21:00:00Z", "rating": null, "reject_reasons": ["invalid_rating", "non_english"]}
+{"id": "r0126", "source": "partner_feed", "text": "asdfasdfasdfasdf", "created_at": "2026-05-05T16:00:00Z", "rating": 4, "reject_reasons": ["non_english"]}
+{"id": "r0127", "source": "web", "text": "Pizza was okay, nothing special.", "created_at": "2026-05-03T19:00:00Z", "rating": 4, "reject_reasons": ["duplicate"]}
+{"id": "r0128", "source": "partner_feed", "text": "Good", "created_at": "2026-05-08T12:00:00Z", "rating": 3, "reject_reasons": ["invalid_length", "non_english"]}
+{"id": "r0129", "source": "mobile_app", "text": "This place was fantastic. The staff were friendly and the food was fresh.", "created_at": "2026-05-05T14:00:00Z", "rating": 2, "reject_reasons": ["duplicate"]}
+{"id": "r0130", "source": "mobile_app", "text": "The burger was amazing and the fries were crispy.", "created_at": "2026-05-03T20:00:00Z", "rating": 4, "reject_reasons": ["duplicate"]}
+{"id": "r0131", "source": "mobile_app", "text": "Worst experience ever!!!", "created_at": "2026-05-05T10:00:00Z", "rating": 3, "reject_reasons": ["duplicate"]}
+{"id": "r0132", "source": "mobile_app", "text": "The burger was amazing and the fries were crispy.", "created_at": "2026-05-04T14:00:00Z", "rating": null, "reject_reasons": ["duplicate", "invalid_rating"]}
+{"id": "r0133", "source": "mobile_app", "text": "La comida estuvo deliciosa y el servicio excelente.", "created_at": "2026-05-06T18:00:00Z", "rating": 1, "reject_reasons": ["non_english"]}
+{"id": "r0134", "source": "mobile_app", "text": "asdfasdfasdfasdf", "created_at": "2026-05-04T22:00:00Z", "rating": 4, "reject_reasons": ["non_english"]}
+{"id": "r0135", "source": "web", "text": "The burger was amazing and the fries were crispy.", "created_at": "2026-05-02T04:00:00Z", "rating": 4, "reject_reasons": ["duplicate"]}
+{"id": "r0136", "source": "partner_feed", "text": "Call me at 555-123-4567, I have feedback.", "created_at": "2026-05-07T23:00:00Z", "rating": 2, "reject_reasons": ["non_english"]}
+{"id": "r0137", "source": "web", "text": "Great tacos! Email me at customer@example.com", "created_at": "2026-05-06T21:00:00Z", "rating": 2, "reject_reasons": ["duplicate"]}
+{"id": "r0138", "source": "mobile_app", "text": "I loved the ramen but the restaurant was too loud.", "created_at": "2026-05-02T02:00:00Z", "rating": 5, "reject_reasons": ["duplicate"]}
+{"id": "r0139", "source": "partner_feed", "text": "Great tacos! Email me at customer@example.com", "created_at": "2026-05-07T10:00:00Z", "rating": 1, "reject_reasons": ["duplicate"]}
+{"id": "r0140", "source": "mobile_app", "text": "This place was fantastic. The staff were friendly and the food was fresh.", "created_at": "2026-05-05T02:00:00Z", "rating": 4, "reject_reasons": ["duplicate"]}
+{"id": "r0141", "source": "partner_feed", "text": "La comida estuvo deliciosa y el servicio excelente.", "created_at": "2026-05-01T00:00:00Z", "rating": 4, "reject_reasons": ["non_english"]}
+{"id": "r0142", "source": "web", "text": "La comida estuvo deliciosa y el servicio excelente.", "created_at": "2026-05-01T21:00:00Z", "rating": 3, "reject_reasons": ["non_english"]}
+{"id": "r0143", "source": "web", "text": "", "created_at": "2026-05-03T09:00:00Z", "rating": null, "reject_reasons": ["invalid_rating", "invalid_length", "non_english"]}
+{"id": "r0144", "source": "web", "text": "Great tacos! Email me at customer@example.com", "created_at": "2026-05-01T04:00:00Z", "rating": 3, "reject_reasons": ["duplicate"]}
+{"id": "r0145", "source": "mobile_app", "text": "Great tacos! Email me at customer@example.com", "created_at": "2026-05-08T05:00:00Z", "rating": null, "reject_reasons": ["duplicate", "invalid_rating"]}
+{"id": "r0146", "source": "web", "text": "Great tacos! Email me at customer@example.com", "created_at": "2026-05-06T08:00:00Z", "rating": 1, "reject_reasons": ["duplicate"]}
+{"id": "r0147", "source": "mobile_app", "text": "Worst experience ever!!!", "created_at": "2026-05-08T00:00:00Z", "rating": null, "reject_reasons": ["duplicate", "invalid_rating"]}
+{"id": "r0148", "source": "web", "text": "asdfasdfasdfasdf", "created_at": "2026-05-03T21:00:00Z", "rating": null, "reject_reasons": ["invalid_rating", "non_english"]}
+{"id": "r0149", "source": "mobile_app", "text": "La comida estuvo deliciosa y el servicio excelente.", "created_at": "2026-05-01T08:00:00Z", "rating": 4, "reject_reasons": ["non_english"]}
+{"id": "r0150", "source": "mobile_app", "text": "Call me at 555-123-4567, I have feedback.", "created_at": "2026-05-05T08:00:00Z", "rating": 1, "reject_reasons": ["non_english"]}
+{"id": "r0151", "source": "web", "text": "Terrible service. I waited 45 minutes.", "created_at": "2026-05-01T01:00:00Z", "rating": 4, "reject_reasons": ["non_english"]}
+{"id": "r0152", "source": "mobile_app", "text": "Call me at 555-123-4567, I have feedback.", "created_at": "2026-05-07T03:00:00Z", "rating": 1, "reject_reasons": ["non_english"]}
+{"id": "r0153", "source": "mobile_app", "text": "Call me at 555-123-4567, I have feedback.", "created_at": "2026-05-08T12:00:00Z", "rating": 4, "reject_reasons": ["non_english"]}
+{"id": "r0154", "source": "web", "text": "asdfasdfasdfasdf", "created_at": "2026-05-04T05:00:00Z", "rating": 2, "reject_reasons": ["non_english"]}
+{"id": "r0155", "source": "partner_feed", "text": "Call me at 555-123-4567, I have feedback.", "created_at": "2026-05-02T19:00:00Z", "rating": 3, "reject_reasons": ["non_english"]}
+{"id": "r0156", "source": "mobile_app", "text": "I loved the ramen but the restaurant was too loud.", "created_at": "2026-05-02T15:00:00Z", "rating": 3, "reject_reasons": ["duplicate"]}
+{"id": "r0157", "source": "web", "text": "The burger was amazing and the fries were crispy.", "created_at": "2026-05-01T05:00:00Z", "rating": 3, "reject_reasons": ["duplicate"]}
+{"id": "r0158", "source": "mobile_app", "text": "I loved the ramen but the restaurant was too loud.", "created_at": "2026-05-06T01:00:00Z", "rating": 3, "reject_reasons": ["duplicate"]}
+{"id": "r0159", "source": "web", "text": "asdfasdfasdfasdf", "created_at": "2026-05-03T12:00:00Z", "rating": 2, "reject_reasons": ["non_english"]}
+{"id": "r0160", "source": "partner_feed", "text": "Pizza was okay, nothing special.", "created_at": "2026-05-07T15:00:00Z", "rating": 2, "reject_reasons": ["duplicate"]}
+{"id": "r0161", "source": "web", "text": "This place was fantastic. The staff were friendly and the food was fresh.", "created_at": "2026-05-01T22:00:00Z", "rating": 4, "reject_reasons": ["duplicate"]}
+{"id": "r0162", "source": "partner_feed", "text": "Call me at 555-123-4567, I have feedback.", "created_at": "2026-05-05T21:00:00Z", "rating": 4, "reject_reasons": ["non_english"]}
+{"id": "r0163", "source": "partner_feed", "text": "This place was fantastic. The staff were friendly and the food was fresh.", "created_at": "2026-05-08T02:00:00Z", "rating": null, "reject_reasons": ["duplicate", "invalid_rating"]}
+{"id": "r0164", "source": "partner_feed", "text": "Worst experience ever!!!", "created_at": "2026-05-08T10:00:00Z", "rating": 1, "reject_reasons": ["duplicate"]}
+{"id": "r0165", "source": "mobile_app", "text": "Worst experience ever!!!", "created_at": "2026-05-07T11:00:00Z", "rating": 4, "reject_reasons": ["duplicate"]}
+{"id": "r0166", "source": "partner_feed", "text": "asdfasdfasdfasdf", "created_at": "2026-05-02T04:00:00Z", "rating": 4, "reject_reasons": ["non_english"]}
+{"id": "r0167", "source": "partner_feed", "text": "This place was fantastic. The staff were friendly and the food was fresh.", "created_at": "2026-05-05T16:00:00Z", "rating": 4, "reject_reasons": ["duplicate"]}
+{"id": "r0168", "source": "mobile_app", "text": "I loved the ramen but the restaurant was too loud.", "created_at": "2026-05-03T20:00:00Z", "rating": 2, "reject_reasons": ["duplicate"]}
+{"id": "r0169", "source": "partner_feed", "text": "", "created_at": "2026-05-05T21:00:00Z", "rating": 2, "reject_reasons": ["invalid_length", "non_english"]}
+{"id": "r0170", "source": "web", "text": "Great tacos! Email me at customer@example.com", "created_at": "2026-05-02T10:00:00Z", "rating": 2, "reject_reasons": ["duplicate"]}
+{"id": "r0171", "source": "mobile_app", "text": "Worst experience ever!!!", "created_at": "2026-05-08T06:00:00Z", "rating": 2, "reject_reasons": ["duplicate"]}
+{"id": "r0172", "source": "mobile_app", "text": "Worst experience ever!!!", "created_at": "2026-05-04T03:00:00Z", "rating": 4, "reject_reasons": ["duplicate"]}
+{"id": "r0173", "source": "mobile_app", "text": "", "created_at": "2026-05-02T05:00:00Z", "rating": 3, "reject_reasons": ["invalid_length", "non_english"]}
+{"id": "r0174", "source": "mobile_app", "text": "Terrible service. I waited 45 minutes.", "created_at": "2026-05-08T15:00:00Z", "rating": null, "reject_reasons": ["invalid_rating", "non_english"]}
+{"id": "r0175", "source": "web", "text": "Call me at 555-123-4567, I have feedback.", "created_at": "2026-05-01T07:00:00Z", "rating": 3, "reject_reasons": ["non_english"]}
+{"id": "r0176", "source": "partner_feed", "text": "La comida estuvo deliciosa y el servicio excelente.", "created_at": "2026-05-02T13:00:00Z", "rating": null, "reject_reasons": ["invalid_rating", "non_english"]}
+{"id": "r0177", "source": "web", "text": "Worst experience ever!!!", "created_at": "2026-05-07T17:00:00Z", "rating": 4, "reject_reasons": ["duplicate"]}
+{"id": "r0178", "source": "mobile_app", "text": "I loved the ramen but the restaurant was too loud.", "created_at": "2026-05-03T09:00:00Z", "rating": null, "reject_reasons": ["duplicate", "invalid_rating"]}
+{"id": "r0179", "source": "partner_feed", "text": "asdfasdfasdfasdf", "created_at": "2026-05-02T13:00:00Z", "rating": 4, "reject_reasons": ["non_english"]}
+{"id": "r0180", "source": "partner_feed", "text": "The burger was amazing and the fries were crispy.", "created_at": "2026-05-06T13:00:00Z", "rating": 2, "reject_reasons": ["duplicate"]}
+{"id": "r0181", "source": "mobile_app", "text": "Terrible service. I waited 45 minutes.", "created_at": "2026-05-08T12:00:00Z", "rating": 3, "reject_reasons": ["non_english"]}
+{"id": "r0182", "source": "partner_feed", "text": "Good", "created_at": "2026-05-01T21:00:00Z", "rating": null, "reject_reasons": ["invalid_rating", "invalid_length", "non_english"]}
+{"id": "r0183", "source": "web", "text": "Worst experience ever!!!", "created_at": "2026-05-04T14:00:00Z", "rating": 2, "reject_reasons": ["duplicate"]}
+{"id": "r0184", "source": "web", "text": "Good", "created_at": "2026-05-07T14:00:00Z", "rating": 2, "reject_reasons": ["invalid_length", "non_english"]}
+{"id": "r0185", "source": "partner_feed", "text": "Worst experience ever!!!", "created_at": "2026-05-07T13:00:00Z", "rating": 1, "reject_reasons": ["duplicate"]}
+{"id": "r0186", "source": "partner_feed", "text": "Worst experience ever!!!", "created_at": "2026-05-06T04:00:00Z", "rating": 4, "reject_reasons": ["duplicate"]}
+{"id": "r0187", "source": "web", "text": "This place was fantastic. The staff were friendly and the food was fresh.", "created_at": "2026-05-07T03:00:00Z", "rating": 2, "reject_reasons": ["duplicate"]}
+{"id": "r0188", "source": "web", "text": "Worst experience ever!!!", "created_at": "2026-05-02T10:00:00Z", "rating": null, "reject_reasons": ["duplicate", "invalid_rating"]}
+{"id": "r0189", "source": "web", "text": "The burger was amazing and the fries were crispy.", "created_at": "2026-05-01T22:00:00Z", "rating": 3, "reject_reasons": ["duplicate"]}
+{"id": "r0190", "source": "partner_feed", "text": "", "created_at": "2026-05-03T16:00:00Z", "rating": 4, "reject_reasons": ["invalid_length", "non_english"]}
+{"id": "r0191", "source": "mobile_app", "text": "Call me at 555-123-4567, I have feedback.", "created_at": "2026-05-08T05:00:00Z", "rating": 5, "reject_reasons": ["non_english"]}
+{"id": "r0192", "source": "mobile_app", "text": "", "created_at": "2026-05-01T11:00:00Z", "rating": 4, "reject_reasons": ["invalid_length", "non_english"]}
+{"id": "r0193", "source": "partner_feed", "text": "Good", "created_at": "2026-05-07T23:00:00Z", "rating": 5, "reject_reasons": ["invalid_length", "non_english"]}
+{"id": "r0194", "source": "mobile_app", "text": "Worst experience ever!!!", "created_at": "2026-05-06T08:00:00Z", "rating": 1, "reject_reasons": ["duplicate"]}
+{"id": "r0195", "source": "mobile_app", "text": "Call me at 555-123-4567, I have feedback.", "created_at": "2026-05-02T19:00:00Z", "rating": 4, "reject_reasons": ["non_english"]}
+{"id": "r0196", "source": "partner_feed", "text": "Terrible service. I waited 45 minutes.", "created_at": "2026-05-07T19:00:00Z", "rating": 2, "reject_reasons": ["non_english"]}
+{"id": "r0197", "source": "partner_feed", "text": "", "created_at": "2026-05-06T05:00:00Z", "rating": 5, "reject_reasons": ["invalid_length", "non_english"]}
+{"id": "r0198", "source": "partner_feed", "text": "Pizza was okay, nothing special.", "created_at": "2026-05-07T17:00:00Z", "rating": null, "reject_reasons": ["duplicate", "invalid_rating"]}
+{"id": "r0199", "source": "mobile_app", "text": "Great tacos! Email me at customer@example.com", "created_at": "2026-05-08T18:00:00Z", "rating": 5, "reject_reasons": ["duplicate"]}
+{"id": "r0200", "source": "mobile_app", "text": "Call me at 555-123-4567, I have feedback.", "created_at": "2026-05-08T08:00:00Z", "rating": 3, "reject_reasons": ["non_english"]}
+{"id": "r0001", "source": "web", "text": "Worst experience ever!!!", "created_at": "2026-05-06T08:00:00Z", "rating": null, "reject_reasons": ["duplicate", "invalid_rating"]}
+{"id": "r0006", "source": "web", "text": "", "created_at": "2026-05-05T07:00:00Z", "rating": 2, "reject_reasons": ["invalid_length", "non_english"]}
+{"id": "bad_record", "source": "mobile_app", "text": null, "created_at": "not-a-date", "rating": 99, "reject_reasons": ["invalid_rating", "invalid_length", "non_english"]}
