@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 from pathlib import Path
 
 
-OUTPUT_PATH = Path("data/raw/snackshack_reviews.jsonl")
+OUTPUT_PATH = Path("src/data/raw/snackshack_reviews.jsonl")
 
 
 SAMPLE_TEXTS = [

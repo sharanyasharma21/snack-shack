@@ -1,0 +1,39 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: airflow
+  namespace: snackshack
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: airflow
+  template:
+    metadata:
+      labels:
+        app: airflow
+    spec:
+      containers:
+      - name: airflow
+        image: docker.io/library/snack-shack-airflow:latest
+        imagePullPolicy: Never
+        command: ["airflow", "standalone"]
+        envFrom:
+        - configMapRef:
+            name: airflow-config
+        resources:
+          requests:
+            memory: "2Gi"
+            cpu: "500m"
+          limits:
+            memory: "4Gi"
+            cpu: "2000m"
+        ports:
+        - containerPort: 8080
+        volumeMounts:
+        - name: data
+          mountPath: /opt/airflow/src/data
+      volumes:
+      - name: data
+        persistentVolumeClaim:
+          claimName: airflow-data

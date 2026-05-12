@@ -1,0 +1,16 @@
+services:
+  airflow:
+    build: .
+    container_name: snackshack_airflow
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: sqlite:////opt/airflow/airflow.db
+      JAVA_HOME: /usr/lib/jvm/default-java
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./src:/opt/airflow/src
+      - ./src/data:/opt/airflow/src/data
+    ports:
+      - "8080:8080"
+    command: standalone
